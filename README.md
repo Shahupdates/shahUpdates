@@ -40,10 +40,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Developer 🌐
 
 
 ### 📊 Github Stats
-<a href='https://github.com/love-shah/github-stats-transparent'>
+<a href='https://github.com/shahupdates/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/love-shah/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/love-shah/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/shahupdates/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/shahupdates/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
