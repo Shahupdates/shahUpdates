@@ -31,9 +31,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Developer 🌐
 ### 📊 Github Stats
 <a href='https://github.com/shahupdates/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/shahupdates/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/shahupdates/github-stats-transparent/output/generated/languages.svg)
-
+![](https://raw.githubusercontent.com/shahupdates/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shahupdates/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </a>
 
 <br>
