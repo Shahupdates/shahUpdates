@@ -12,7 +12,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Developer 🌐
 
 - 🔭 &nbsp; I’m currently working on **eye tracking**
 - 🤝 &nbsp; I’m looking to collaborate on [n/a](n/a)
-- 🌱 &nbsp; I’m currently learning Ruby; 
+- 🌱 &nbsp; I’m currently mastering leetcode
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/love-shah?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/love-shah/)
