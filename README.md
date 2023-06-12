@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Developer 🌐
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/love-shah/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1WqJYRKrtTAZ-YkH8tsEzP8_CsY5ZJ2oK/view?usp=sharing)
-- 📚 &nbsp; When I am free, I spend time with dogs: 🐕 Charmi (7 months) and 🐕 Lucky (18 months)
+- 📚 &nbsp; When I am free, I spend time with dogs: <br> 🐕 Charmi (7 months) and 🐕 Lucky (18 months)
 
 <br>
 
