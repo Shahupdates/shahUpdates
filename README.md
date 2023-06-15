@@ -1,4 +1,4 @@
-## Hey 👋, I'm Love Shah! 
+## Hey 👋, I'm Love Shah! <a href='https://www.linkedin.com/in/love-shah/'> <img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 
 
@@ -11,12 +11,12 @@ I am a versatilist and can adapt to different hats (Full Stack Developer 🌐, S
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **eye tracking**
-<!--- 🤝 &nbsp; I’m looking to collaborate on [n/a](n/a) -->
+- 🤝 &nbsp; I’m looking to collaborate on [Open-Source](https://github.com/Shahupdates/opensourcescrapers/blob/main/scraper.py)
 - 🌱 &nbsp; I’m currently mastering leetcode
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/love-shah?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-<!--   📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/love-shah/) -->
-<!--  - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1WqJYRKrtTAZ-YkH8tsEzP8_CsY5ZJ2oK/view?usp=sharing) -->
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/love-shah/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZFBDLm-5r8L6o7TOmC8W8SZ7cjA433y2/view?usp=sharing)
 - 📚 &nbsp; When I am free, I spend time with my dogs: <br> 🐕 Charmi (7 months) and 🐕 Lucky (18 months)
 
 <br>
