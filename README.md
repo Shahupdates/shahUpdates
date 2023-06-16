@@ -14,7 +14,8 @@ I am a versatilist and can adapt to different hats (Full Stack Developer 🌐, S
 - 🔭 &nbsp; I’m currently working on **eye tracking**
 - 🤝 &nbsp; I’m looking to collaborate on [Open-Source](https://github.com/Shahupdates/opensourcescrapers/blob/main/scraper.py)
 - 🌱 &nbsp; I’m currently mastering leetcode;
-- 💻 &nbsp; If you're looking for some practice problems that are easier/harder than leetcode visit: [PracticePythonProblems](https://github.com/Shahupdates/PracticePythonProblems)
+- 💻 &nbsp; If you're looking for some practice problems that are
+easier/harder than leetcode visit: [PracticePythonProblems](https://github.com/Shahupdates/PracticePythonProblems)
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/love-shah?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/love-shah/)
