@@ -2,7 +2,7 @@
 
 
 
-I am a versatilist and can adapt to different hats (Full Stack Developer 🌐, Software Engineer, Machine Learning 🔨,  Engineer 🤖, Back-end Developer 💾, Front-end Developer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build new ideas.🛠️. 
+I am a versatilist specializing in software solutions and can adapt to different hats (Full Stack Developer 🌐, Software Engineer, Machine Learning 🔨,  Engineer 🤖, Back-end Developer 💾, Front-end Developer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build new ideas.🛠️. 
 <br/>
 <br/>
 
