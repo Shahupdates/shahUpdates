@@ -11,7 +11,7 @@ I am a versatilist specializing in software solutions and can adapt to different
 ### 🧐 More About Me:
 
 
-- 🔭 &nbsp; I’m currently working on **eye tracking**
+- 🔭 &nbsp; I’m currently working on [eye tracking](https://github.com/Shahupdates/EyeTracking)
 - 🤝 &nbsp; I’m looking to collaborate on [Open-Source Scrapers](https://github.com/Shahupdates/opensourcescrapers/blob/main/scraper.py)
 - 🤝 &nbsp; I’m looking to collaborate on [Smart Contract Snippets](https://github.com/Shahupdates/SmartContractSnippets/)
 - 🌱 &nbsp; I’m currently mastering leetcode;
