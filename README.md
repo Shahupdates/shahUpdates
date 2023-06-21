@@ -13,7 +13,7 @@ I am a versatilist specializing in software solutions and can adapt to different
 
 - 🔭 &nbsp; I’m currently working on **eye tracking**
 - 🤝 &nbsp; I’m looking to collaborate on [Open-Source Scrapers](https://github.com/Shahupdates/opensourcescrapers/blob/main/scraper.py)
-- - 🤝 &nbsp; I’m looking to collaborate on [Open-Source Smart Contract Snippets](https://github.com/Shahupdates/SmartContractSnippets/)
+- - 🤝 &nbsp; I’m looking to collaborate on [Smart Contract Snippets](https://github.com/Shahupdates/SmartContractSnippets/)
 - 🌱 &nbsp; I’m currently mastering leetcode;
 - 💻 &nbsp; If you're looking for some practice problems: [PracticePythonProblems](https://github.com/Shahupdates/PracticePythonProblems)
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/love-shah?tab=repositories)
