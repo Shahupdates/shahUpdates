@@ -47,8 +47,90 @@ I am a versatilist specializing in software solutions and can adapt to different
 
 <br>
 
-### 🛠️ My Projects
-<!-- <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a> -->
+### 🛠️ My Private Projects
+
+Here is a list of my private projects that I have worked on:
+
+💡 **Spark Streaming**: Real-time data processing using Apache Spark.
+
+💼 **Stock Market Paper Trading**: Simulated stock trading application.
+
+🤖 **WellfoundBot**: A chatbot built using natural language processing.
+
+🔍 **Hadoop Apriori Algorithm on Grocery Store Data**: Implementation of the Apriori algorithm on grocery store data using Hadoop.
+
+🏥 **Newark Medical Associates Data Management**: Data management system for a medical practice.
+
+🔍 **Apriori Algorithm using MapReduce on Amazon Datasets**: Implementation of the Apriori algorithm using MapReduce on Amazon datasets.
+
+🌐 **Portfolio in C# Blazor**: Personal portfolio website built using C# Blazor.
+
+📝 **NameParser**: Library for parsing and manipulating names.
+
+🔧 **SdkFromScratch**: Building a software development kit from scratch.
+
+🖼️ **Image Manipulation Live with Swing**: Real-time image manipulation application using Swing.
+
+🔒 **Network Intrusion Detection System**: An intrusion detection system for network security.
+
+🔐 **Password Cracker in C++**: Password cracking tool implemented in C++.
+
+🌐 **Network Traffic Analysis Tool**: Tool for analyzing network traffic patterns.
+
+☁️ **Spring Cloud**: Building cloud-native applications using the Spring framework.
+
+📅 **JavaFX Age Calculator**: Age calculator application built using JavaFX.
+
+🚦 **SmartPredict - ML traffic congestion prediction system**: Machine learning-based traffic congestion prediction system.
+
+🎮 **Mobile Game in Unity**: Mobile game development using Unity engine.
+
+🖼️ **TensorFlow Image Recognition**: Image recognition using TensorFlow library.
+
+🔗 **DeCentralized blockChain Application**: Decentralized blockchain application development.
+
+💬 **Nlp Chatbot**: Natural language processing-based chatbot.
+
+🍿 **MovieTDMBAPIReact**: Movie recommendation app built using React and TMDB API.
+
+🎵 **React Native Music Player**: Music player app developed using React Native.
+
+📝 **React Native Quiz Application**: Quiz application built with React Native.
+
+➕ **Angular and React Advanced Calculator**: Advanced calculator built using Angular and React.
+
+💰 **Firebase Budget Stimulator**: Budget simulation app using Firebase as a backend.
+
+🐍 **Python ML Recipes**: Collection of machine learning recipes implemented in Python.
+
+✅ **React and Node.JS To-Do App**: To-do list application built using React and Node.js.
+
+🌦️ **Weather App in C**: Simple weather application implemented in C.
+
+📜 **Recursive Descent Parser in Java**: Implementation of a recursive descent parser in Java.
+
+🔗 **Graph Powered Transitive Closure**: Transitive closure algorithm using graph-based approach.
+
+🖼️ **AWS Object Rekognition**: Image recognition using AWS Rekognition service.
+
+🔬 **Spark Machine Learning Project**: Machine learning project using Apache Spark.
+
+💻 **System Call in Linux**: Example of a system call implementation in Linux.
+
+🏧 **Pseudo-ATM Machine in Java Servlet**: Simulated ATM machine implemented using Java Servlet.
+
+📌 **MrJob Exclusive Project**: Exclusive project utilizing MrJob library for distributed computing.
+
+🎲 **MapReduce in Poker**: Analysis of poker games using MapReduce.
+
+💤 **Sleeping Barber Problem**: Solution to the classical sleeping barber problem.
+
+📚 **Page Removal Comparisons**: Comparing various page removal algorithms.
+
+Feel free to explore these projects and get inspired!
+
+
+
+
+
+
