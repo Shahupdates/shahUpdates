@@ -21,7 +21,7 @@ I am a versatilist specializing in software solutions like and can adapt to diff
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/love-shah/)
   <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZFBDLm-5r8L6o7TOmC8W8SZ7cjA433y2/view?usp=sharing) -->
-- 📚 &nbsp; When I am free, I spend time with my dogs: <br> 🐕 Charmi (7 months) and 🐕 Lucky (18 months)
+- 📚 &nbsp; When I am free, I spend time with my dogs: <br> 🐕 Charmi (1 y/o) and 🐕 Lucky (2 y/o)
 
 <br>
 
