@@ -3,7 +3,7 @@
 
 
 My strongest subjects are JavaScript (ServiceNow) and Python.
-I am a versatilist specializing in software solutions like and can adapt to different hats (Full Stack Developer 🌐, Software Engineer, Machine Learning 🔨,  Engineer 🤖, Back-end Developer 💾, Front-end Developer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build new ideas.🛠️. 
+I love exploring new tech stack 💻 and leveraging them to build new ideas 🛠️. 
 <br/>
 <br/>
 
@@ -20,7 +20,6 @@ I am a versatilist specializing in software solutions like and can adapt to diff
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/love-shah?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/love-shah/)
-  <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZFBDLm-5r8L6o7TOmC8W8SZ7cjA433y2/view?usp=sharing) -->
 - 📚 &nbsp; When I am free, I spend time with my dogs: <br> 🐕 Charmi (1 y/o) and 🐕 Lucky (2 y/o)
 
 <br>
